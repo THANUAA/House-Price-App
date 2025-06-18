@@ -112,12 +112,10 @@ Cross-Validation: Implement k-fold cross-validation for robust evaluation.
 R² Score: Measures the proportion of variance explained by the model.
 MSE: Quantifies prediction error in squared units.
 
-Example output from the notebook:
-R² Score: 0.82
-MSE: 1500.25
+Output from the notebook:
+R² Score: 0.5303123010113816
+MSE: 11479.5025915459
 
 🙌 Contributing
 Feel free to fork this repository, submit issues, or create pull requests to improve the model or app.
-📜 License
-This project is licensed under the MIT License.
 
