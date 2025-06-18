@@ -29,7 +29,7 @@ A Kaggle account to download the dataset
 Render account for deployment (optional)
 
 Step 1: Clone the Repository
-git clone https://github.com/your-username/house-price-app.git
+git clone https://github.com/your-username/house-price-app.git](https://github.com/THANUAA/House-Price-App.git
 cd house-price-app
 
 Step 2: Install Dependencies
